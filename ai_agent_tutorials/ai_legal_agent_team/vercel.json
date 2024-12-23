@@ -12,9 +12,6 @@
       "dest": "legal_agent_team.py"
     }
   ],
-  "env": {
-    "API_KEY": "@your_api_key" // 替换为你的 API 密钥环境变量
-  },
   "installCommand": "pip install -r requirements.txt",
   "startCommand": "streamlit run legal_agent_team.py"
 }
