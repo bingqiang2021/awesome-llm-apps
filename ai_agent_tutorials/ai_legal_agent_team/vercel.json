@@ -12,6 +12,5 @@
       "dest": "legal_agent_team.py"
     }
   ],
-  "installCommand": "pip install -r requirements.txt",
-  "startCommand": "streamlit run legal_agent_team.py"
+  "installCommand": "pip install -r requirements.txt"
 }
